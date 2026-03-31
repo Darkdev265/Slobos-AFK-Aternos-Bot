@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "tiralazerty.sdlf.fun",
-    "port": 34715,
+    "port": 25565,
     "version": "26.1",
     "try-creative": false
   },
